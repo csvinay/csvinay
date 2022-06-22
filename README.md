@@ -1,4 +1,4 @@
-### Hi, I am ***Vinay*** ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
+### Hi, I am ***Vinay*** !
 I’m a senior at [Cluster Innovation Centre, University of Delhi](https://ducic.ac.in/) pursuing B.Tech in Mathematical Innovations and Information Technology and minor in Management and Economics.
 
 - <img src="https://media-exp1.licdn.com/dms/image/C560BAQHx-RwlazW54Q/company-logo_200_200/0/1628189126020?e=1647475200&v=beta&t=iGaEpnQ3koGpie564fqGRcG6vbhinMLzrbz9exk_mig" width="20px"> I'm the founder of [AiView](https://www.aiview.co.in), a research start-up where we are developing software to assist the visually impaired by helping them navigate and keeping them aware of their surroundings.
