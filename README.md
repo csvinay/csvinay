@@ -1,5 +1,5 @@
 ### Hi, I am ***Vinay*** !
-I’m a 2022 B.Tech graduate from [Cluster Innovation Centre, University of Delhi](https://ducic.ac.in/) with major as Mathematical Innovations and Information Technology and minor in Management and Economics.
+I’m a 2022 B.Tech graduate from [Cluster Innovation Centre, University of Delhi](https://cic.du.ac.in/) with major as Mathematical Innovations and Information Technology and minor in Management and Economics.
 
 - <img src="https://www.aiview.co.in/static/media/logo.e524ce8e.svg" width="20px"> I'm the founder of [AiView](https://www.aiview.co.in), a research start-up where we are developing software to assist the visually impaired by helping them navigate and keeping them aware of their surroundings.
 
