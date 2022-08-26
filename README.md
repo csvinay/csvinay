@@ -1,7 +1,7 @@
 ### Hi, I am ***Vinay*** !
 I’m a 2022 B.Tech graduate from [Cluster Innovation Centre, University of Delhi](https://cic.du.ac.in/) with major as Mathematical Innovations and Information Technology and minor in Management and Economics.
 
-- <img src="https://www.aiview.co.in/static/media/logo.e524ce8e.svg" width="20px"> I'm the founder of [AiView](https://www.aiview.co.in), a research start-up where we are developing software to assist the visually impaired by helping them navigate and keeping them aware of their surroundings.
+- <img src="https://user-images.githubusercontent.com/43710239/186896640-cfa9b0c9-651f-418d-b31c-33a2458737cf.png" width="20px"> I'm the founder of [AiView](https://www.aiview.co.in), a research start-up where we are developing software to assist the visually impaired by helping them navigate and keeping them aware of their surroundings.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="20px"> Worked at [HackerRank](https://www.hackerrank.com/about-us) as a Software Engineer intern from Jan'22-July'22.
 
