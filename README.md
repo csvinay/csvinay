@@ -1,5 +1,5 @@
 ### Hi, I am ***Vinay*** !
-I’m a 2022 B.Tech graduate from [Cluster Innovation Centre, University of Delhi](https://cic.du.ac.in/) with major as Mathematical Innovations and Information Technology and minor in Management and Economics.
+Currently working at [DeepLogicAI](https://deeplogicai.tech/) as a Product Manager and also pursuing MBA from DMS, IIT Delhi, Class of 2025. I’m a 2022 B.Tech graduate from [Cluster Innovation Centre, University of Delhi](https://cic.du.ac.in/) with major as Mathematical Innovations and Information Technology and minor in Management and Economics.
 
 - <img src="https://user-images.githubusercontent.com/43710239/186896640-cfa9b0c9-651f-418d-b31c-33a2458737cf.png" width="20px"> I'm the founder of [AiView](https://www.aiview.co.in), a research start-up where we are developing software to assist the visually impaired by helping them navigate and keeping them aware of their surroundings.
 
