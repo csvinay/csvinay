@@ -1,5 +1,5 @@
 ### Hi, I am ***Vinay*** !
-Building thoughtful tech products @ [DeepLogicAI](https://deeplogicai.tech/).
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDH4vggAO5FGYFesXPyT86aDDL_BArr9IGw&s" width="20px"> Building thoughtful tech products @ [DeepLogicAI](https://deeplogicai.tech/).
 
 MBA graduate from [DMS, IIT Delhi](https://dms.iitd.ac.in/), Class of 2025.
 
