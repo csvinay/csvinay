@@ -1,7 +1,7 @@
 ### Hi, I am ***Vinay*** !
 Building thoughtful tech products @ [DeepLogicAI](https://deeplogicai.tech/).
 
-MBA Candidate from [DMS, IIT Delhi](https://dms.iitd.ac.in/), Class of 2025.
+MBA graduate from [DMS, IIT Delhi](https://dms.iitd.ac.in/), Class of 2025.
 
 B.Tech in IT & Mathematical Innovation from [Cluster Innovation Centre, University of Delhi](https://cic.du.ac.in/) with minor in Management and Economics, Class of 2022.
 
